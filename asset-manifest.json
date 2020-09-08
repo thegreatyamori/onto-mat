@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/onto-mat/static/css/main.b9aa6104.chunk.css",
+    "main.js": "/onto-mat/static/js/main.c92db6f5.chunk.js",
+    "main.js.map": "/onto-mat/static/js/main.c92db6f5.chunk.js.map",
+    "runtime-main.js": "/onto-mat/static/js/runtime-main.9e5d1812.js",
+    "runtime-main.js.map": "/onto-mat/static/js/runtime-main.9e5d1812.js.map",
+    "static/css/2.c46397a6.chunk.css": "/onto-mat/static/css/2.c46397a6.chunk.css",
+    "static/js/2.61da17da.chunk.js": "/onto-mat/static/js/2.61da17da.chunk.js",
+    "static/js/2.61da17da.chunk.js.map": "/onto-mat/static/js/2.61da17da.chunk.js.map",
+    "index.html": "/onto-mat/index.html",
+    "precache-manifest.a594e191b1a83821b36d2998713a9967.js": "/onto-mat/precache-manifest.a594e191b1a83821b36d2998713a9967.js",
+    "service-worker.js": "/onto-mat/service-worker.js",
+    "static/css/2.c46397a6.chunk.css.map": "/onto-mat/static/css/2.c46397a6.chunk.css.map",
+    "static/css/main.b9aa6104.chunk.css.map": "/onto-mat/static/css/main.b9aa6104.chunk.css.map",
+    "static/js/2.61da17da.chunk.js.LICENSE.txt": "/onto-mat/static/js/2.61da17da.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9e5d1812.js",
+    "static/css/2.c46397a6.chunk.css",
+    "static/js/2.61da17da.chunk.js",
+    "static/css/main.b9aa6104.chunk.css",
+    "static/js/main.c92db6f5.chunk.js"
+  ]
+}
