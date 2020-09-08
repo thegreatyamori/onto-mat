@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/onto-mat/precache-manifest.215fb83fe0533358bca20a1d0c6ff257.js"
+  "/onto-mat/precache-manifest.227192f9530d670b177a100fa9a9fe51.js"
 );
 
 self.addEventListener('message', (event) => {
