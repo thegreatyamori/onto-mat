@@ -44,6 +44,15 @@
     #314755 100%
   );
 }
+.List-item-button:active,
+.List-item-button:focus {
+  background-image: linear-gradient(
+    to right,
+    #d31027 0%,
+    #ea384d 51%,
+    #d31027 100%
+  );
+}
 .List-item-button:hover {
   background-position: right center;
 }
