@@ -1,0 +1,76 @@
+.Section-title {
+  color: white;
+}
+.Section-center {
+  /* display: flex;
+  justify-content: center; */
+  margin-left: 2em;
+  margin-right: 2em;
+  margin-top: 2em;
+}
+.Section-grid {
+  display: grid;
+  grid-template-areas: "code code list";
+}
+.Section-code-item {
+  grid-area: code;
+}
+.Section-list-item {
+  grid-area: list;
+  padding-left: 1em;
+}
+.Section-table {
+  padding-bottom: 2em;
+}
+.List-items {
+  list-style: none;
+  padding-left: 0;
+}
+.List-item-button {
+  width: 100%;
+  padding: 1em;
+  margin: 0.5em;
+  text-transform: uppercase;
+  transition: 0.5s;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  display: block;
+  background-size: 200% auto;
+  background-image: linear-gradient(
+    to right,
+    #314755 0%,
+    hsl(199, 71%, 50%) 51%,
+    #314755 100%
+  );
+}
+.List-item-button:hover {
+  background-position: right center;
+}
+.m-0 {
+  margin: 0;
+}
+.Table {
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+.Table td,
+.Table th {
+  color: white;
+  padding: 8px;
+}
+.Table tr {
+  background-color: #1c2429;
+}
+
+.Table tr:hover {
+  background-color: #304047;
+}
+
+.Table th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #263238;
+}
