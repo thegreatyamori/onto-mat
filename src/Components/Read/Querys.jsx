@@ -9,6 +9,7 @@ export default function Querys({ onChange }) {
         "  ?dc mat:aCargoDe ?c.\n" +
         "  ?dc mat:nombre ?nombre.\n" +
         "  ?c mat:nombre ?carrera.\n" +
+        "  FILTER regex(?carrera, \"Ing\")\n" +
         "}"
     );
   };
